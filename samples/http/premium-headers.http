@@ -1,0 +1,19 @@
+# Sample x402 402 challenge response (non-turnkey)
+# Request: GET /premium/:mentionId
+
+HTTP/1.1 402 Payment Required
+X-Payment-Required: true
+X-Payment-Amount: 20
+X-Payment-Currency: USDC
+X-Payment-Receiver: __REDACTED__
+X-Payment-Facilitator: __REDACTED__
+X-Payment-Expires: 2025-01-01T00:00:00.000Z
+X-Payment-Memo: TERRY_PREMIUM_RESPONSE
+Payment-Required: true
+402-Amount: 20
+402-Asset: USDC
+402-Receiver: __REDACTED__
+402-Facilitator: __REDACTED__
+402-Expires-At: 2025-01-01T00:00:00.000Z
+
+{ "error": "Payment Required" }

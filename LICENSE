@@ -1,0 +1,23 @@
+Business Source License 1.1
+
+Parameters
+Licensor: Terry Project
+Licensed Work: Terry (the code in this repository)
+Change Date: 2027-01-01
+Change License: Apache License, Version 2.0
+
+Terms
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use.
+
+Effective on the Change Date, or the fourth anniversary of the first publicly available distribution of a specific version of the Licensed Work, whichever comes first, the Change License will apply to that version.
+
+You may not use the Licensed Work for production purposes, or provide the Licensed Work to third parties as a hosted or managed service, without a separate commercial agreement with the Licensor.
+
+Any use of the Licensor's trademarks is subject to the Licensor's trademark guidelines.
+
+The Licensed Work is provided "as is," without warranties or conditions of any kind. The Licensor disclaims all liability for damages related to the Licensed Work.
+
+This License does not grant you any right in any patent, trademark, or other intellectual property of the Licensor except as expressly set forth herein.
+
+For the full text of the Business Source License 1.1, see:
+https://mariadb.com/bsl11/

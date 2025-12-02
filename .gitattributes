@@ -1,0 +1,4 @@
+# Exclude internal docs and non-public assets from source archives
+/docs/internal export-ignore
+/scripts export-ignore
+/tests export-ignore
